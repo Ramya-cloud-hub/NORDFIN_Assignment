@@ -1,0 +1,16 @@
+{
+  "name": "ramya",
+  "version": "1.0.0",
+  "main": "delivery-calculator.js",
+  "scripts": {
+    "test": "jest",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.2",
+    "jest": "^27.4.7"
+  },
+  "description": ""
+}
